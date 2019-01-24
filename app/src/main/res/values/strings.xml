@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ung dung danh ba</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_number">Input_number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_contant">Add Contant</string>
+    <string name="nguyen_tien_dung">Nguyen Tien Dung</string>
+    <string name="_035557254699">035557254699</string>
+    <string name="call">Call</string>
+    <string name="send_messeger">send messeger</string>
+</resources>
